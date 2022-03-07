@@ -3,3 +3,7 @@
 2. Komal Manoj Bhingare, Vaishnavi Sanjay Ransing,"VACUUM CLEANER USING MICROCONTROLLER"Volume 3,Issue 12, December 2018
 3. Vatsal shah,"Floor Cleaning Robot with Mobile-App or Autonomous"May-2015
 4. https://www.thespruce.com/uses-for-your-vacuum-4587772
+<<<<<<< HEAD:Project/9_Others/readme.md
+=======
+
+>>>>>>> 7d7cd7e1505a8fac274788c71ccc6279df81efb2:Project/7_Others/readme.md
