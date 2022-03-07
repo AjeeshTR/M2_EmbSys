@@ -7,7 +7,7 @@ We live in a period in which the automation had taken place a vital role and thr
 * Reduces human efforts. 
 * Low Cost & Easy to use.
 * Data can be accessed from any part of the world.
-* Easy to Design.
+* Easy to Design
  
  # 4W's & 1H
  |House/Offices|Clean Floors|Automatic mover|when at Busy|Dust Detection|

@@ -52,10 +52,45 @@ char* const host = "www.google.com";
 int hostPort = 80;
 #define stepperDelayTime  1000
 // object initialization
+/**
+ * @brief  BLE(Bluetooth) module for an embedded system
+ * 
+ * @return BLEHM10 
+ */
 BLEHM10 blehm10(BLEHM10_PIN_RXD,BLEHM10_PIN_TXD);
+/**
+ * @brief ESP8266 WiFi Module is a self contained SOC
+ * 
+ * @return ESP8266 
+ */
 ESP8266 wifi(WIFI_PIN_RX,WIFI_PIN_TX);
+/**
+ * @brief HC-SR04 with Arduino and NewPing library
+ * 
+ * @return NewPing 
+ */
 NewPing hcsr04(HCSR04_PIN_TRIG,HCSR04_PIN_ECHO);
+/**
+ * @brief Displays operation that takes place
+ * 
+ * @return LiquidCrystal 
+ */
 LiquidCrystal lcd(LCD_PIN_RS,LCD_PIN_E,LCD_PIN_DB4,LCD_PIN_DB5,LCD_PIN_DB6,LCD_PIN_DB7);
+/**
+ * @brief to convert small electrical stimuli into larger currents
+ * 
+ * @return Relay 
+ */
 Relay relayModule(RELAYMODULE_PIN_SIGNAL);
+/**
+ * @brief used for precise positioning with a motor
+ * 
+ * @return StepperMotor 
+ */
 StepperMotor stepper(STEPPER_PIN_STEP,STEPPER_PIN_DIR);
+/**
+ * @brief for line tracking purposes
+ * 
+ * @return Button 
+ */
 Button ReflectiveIR(REFLECTIVEIR_PIN_COLL);
