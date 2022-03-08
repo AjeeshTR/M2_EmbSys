@@ -33,3 +33,8 @@ An Proposed Flow chart developed in such a way that our project would be underst
 Thus our Ultimate Goal to develop an Simulation done with higher level implementation and hence provided with an design of our Project which includes Ultrasonic Sensors, Relays - acts as an Actuators, Motor and respective drivers, Microcontroller and an LCD display
 ![image](https://user-images.githubusercontent.com/98816316/155753888-879a1a63-e97b-4c0e-ad9c-40c834e67689.png)
 
+## Best Methods Followed
+* Initial and developed block diagrams mentioned for better understandings
+* Mentioning of both High level and Low level Behavioral and structural Diagrams for better understanding
+* Flow chart representation making us to understand easier
+* Detailed explanation in Low level Behavioural and Structural Diagrams

@@ -19,21 +19,21 @@ We live in a period in which the automation had taken place a vital role and thr
 
 # Requirements
 # High Level Requirements
-| RID | DESCRIPTION | STATUS |
-|:--:|:--------:|:----:|
-|HLR1|Sucking out Dust particle|To be done|
-|HLR2|Storing Dust particle|To be done|
-|HLR3|Pressure Provided|To be done|
-|HLR4|Air Release|To be done|
-|HLR5|Friction Intaken|To be done|
+| RID | DESCRIPTION |
+|:--:|:--------:|
+|HLR1|Sucking out Dust particle|
+|HLR2|Storing Dust particle|
+|HLR3|Pressure Provided|
+|HLR4|Air Release|
+|HLR5|Friction Intaken|
 
 # Low Level Requirements:
-| RID | DESCRIPTION | STATUS |
-|:--:|:--------:|:----:|
-|LLR1|Primary one to inhale Dust particle|To be done|
-|LLR2|Inhaled Dust particle storing device|To be done|
-|LLR3|Fan creates pressure by spinning|To be done|
-|LLR4|exhaust port pushes clean air into your home|To be done|
-|LLR5|friction is created by employing rotating brushes|To be done| 
+| RID | DESCRIPTION |
+|:--:|:--------:|
+|LLR1|Primary one to inhale Dust particle|
+|LLR2|Inhaled Dust particle storing device|
+|LLR3|Fan creates pressure by spinning|
+|LLR4|exhaust port pushes clean air into your home|
+|LLR5|friction is created by employing rotating brushes| 
 
 
